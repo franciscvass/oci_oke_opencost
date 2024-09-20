@@ -154,7 +154,9 @@ terraform apply
 
 
 [OpenCost Config for OCI](https://www.opencost.io/docs/configuration/oracle)
+
 [OpenCost github repo](https://github.com/opencost/opencost-helm-chart/)
+
 [OpenCost in OKE blogpost](https://medium.com/oracledevs/announcing-opencost-support-for-oci-f1a4cf45ae03)
 
 
